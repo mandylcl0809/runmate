@@ -1,0 +1,15 @@
+{
+  "races": [
+    {
+      "name": "雲浮半程馬拉松 2026",
+      "date": "2026-12-06",
+      "region": "cn",
+      "type": "half",
+      "distance": "10公里",
+      "location": "廣東省",
+      "status": "closed",
+      "deadline": "2026-11-01",
+      "url": ""
+    }
+  ]
+}
