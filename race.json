@@ -10,6 +10,28 @@
       "status": "closed",
       "deadline": "2026-11-01",
       "url": ""
+    },
+    {
+      "name": "深圳南山半程馬拉松 2026",
+      "date": "2026-12-20",
+      "region": "cn",
+      "type": "half",
+      "distance": "半馬",
+      "location": "廣東省",
+      "status": "closed",
+      "deadline": "2026-11-25",
+      "url": ""
+    },
+    {
+      "name": "汕頭馬拉松 2026",
+      "date": "2026-12-20",
+      "region": "cn",
+      "type": "full,half",
+      "distance": "全馬,半馬",
+      "location": "廣東省",
+      "status": "closed",
+      "deadline": "2026-11-25",
+      "url": ""
     }
   ]
 }
